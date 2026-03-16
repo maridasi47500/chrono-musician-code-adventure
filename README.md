@@ -21,14 +21,22 @@ Tu peux incarner :
     ou un pirate,
     …et dans cette histoire, le premier héros est une héroïne.
 
-⌨️ Le gameplay
 
-    L’expérience se déroule dans un CLI, comme une bataille navale en temps réel.
+⌨️ Le gameplay 
 
-    Chaque commande est une action, un mouvement, une attaque ou une création.
+    L’aventure se joue dans un terminal ou command line,
 
-🔐 La sécurité
+    comme une bataille navale en temps réel,
 
+    où chaque commande est un mouvement, une attaque, une création ou une stratégie.
+
+🚢 Ton “bateau”
+
+    Ce n’est pas un navire, mais une application que tu développes.
+
+    Sa sécurité repose sur un système de login (Rails, Python, ou n’importe quel langage).
+
+    Plus ton app évolue, plus ton bateau devient puissant.
     Le système repose sur un login Rails, simple mais symbolique :
     la sécurité fait partie de l’aventure.
 
