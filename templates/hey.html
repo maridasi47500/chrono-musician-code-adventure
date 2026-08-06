@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block montitre %}
+debut de mes mots: bienvenue dans chrono musician code
+{% endblock %}
+{% block content %}
+<h1># chrono-musician-code-adventure</h1>
+{% for x in users | reverse %}
+ <li>{{ x["first_name"]  }}</li>
+
+{% endfor %} 
+fin de mes mots : en temps réel, toi,     un samouraï,
+
+    un écrivain,
+
+    ou un pirate,
+    …et dans cette histoire, le premier héros est une héroïne., partage tes cli pour participer à la bataille navale.
+{% endblock %}
+{% block liens %}
+<a href="/">welcome</a>
+{% endblock %}
+<a href="/add_one_country"> add one country</a><a href="/add_one_identity"> add one identity</a><a href="/add_one_track"> add one track</a><a href="/add_one_socialmedia"> add one socialmedia</a><a href="/add_one_sharemusic"> add one sharemusic</a><a href="/add_one_user"> add one user</a><a href="/add_one_cli"> add one cli</a>
