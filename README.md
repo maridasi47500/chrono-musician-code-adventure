@@ -1,5 +1,6 @@
 # chrono-musician-code-adventure
 out of home chrono code musician security on rails adventure
+- tu dois faire le projet/sport en direct ensemble ou une equipe contre une equipe
 - USUAL ACTION login as a samourai , ecrivain ou pirate(premiere samourai , ecrivain, ou pirate etait 1 femme)
 - on écrire dans un cli (command line) comme si c'est une bataille navale en temps reeel
 - faire un login sur rails, la security est un login sur rails
